@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pikastunnerSpeak/static/css/main.9791cbe8.css",
+    "main.js": "/pikastunnerSpeak/static/js/main.abe5ca44.js",
+    "static/js/453.838b8f74.chunk.js": "/pikastunnerSpeak/static/js/453.838b8f74.chunk.js",
+    "static/media/Month.mp4": "/pikastunnerSpeak/static/media/Month.3264c14a5e1ac5000f73.mp4",
+    "static/media/cinema_clip.mp4": "/pikastunnerSpeak/static/media/cinema_clip.3f011e3f7407c2d97468.mp4",
+    "static/media/windowsxp.jpg": "/pikastunnerSpeak/static/media/windowsxp.a315e21c0a231925d55f.jpg",
+    "static/media/windowsxplogo.png": "/pikastunnerSpeak/static/media/windowsxplogo.180573382c60bb0f030c.png",
+    "static/media/recycle_bin.png": "/pikastunnerSpeak/static/media/recycle_bin.610a0f5dfd977a13e259.png",
+    "static/media/cmd_logo.png": "/pikastunnerSpeak/static/media/cmd_logo.759989bac1cfcb3eb47e.png",
+    "static/media/cinema.jpg": "/pikastunnerSpeak/static/media/cinema.655f6d36a41c119ca319.jpg",
+    "static/media/close.PNG": "/pikastunnerSpeak/static/media/close.5aa36e31b2ae6004c492.PNG",
+    "static/media/maximise.PNG": "/pikastunnerSpeak/static/media/maximise.5e6fc4f56dfbe3322dd8.PNG",
+    "static/media/minimise.PNG": "/pikastunnerSpeak/static/media/minimise.ea4fa6bb1ff4692ba763.PNG",
+    "index.html": "/pikastunnerSpeak/index.html",
+    "main.9791cbe8.css.map": "/pikastunnerSpeak/static/css/main.9791cbe8.css.map",
+    "main.abe5ca44.js.map": "/pikastunnerSpeak/static/js/main.abe5ca44.js.map",
+    "453.838b8f74.chunk.js.map": "/pikastunnerSpeak/static/js/453.838b8f74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9791cbe8.css",
+    "static/js/main.abe5ca44.js"
+  ]
+}
